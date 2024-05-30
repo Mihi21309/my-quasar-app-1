@@ -1,6 +1,6 @@
-# Mihi App (mihiran-app)
+# Quasar App (quasar-project)
 
-My First App
+A Quasar Project
 
 ## Install the dependencies
 ```bash
